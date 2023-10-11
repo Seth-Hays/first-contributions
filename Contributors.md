@@ -13,6 +13,7 @@
 Jyothishwari GP
 - [Parikshit Adhikari](https://github.com/parikshitadhikari)
 - [Arjun Pandit](https://github.com/arjunpndt)
+- [Seth Hays](https://github.com/Seth-Hays)
 - [Dhananjay Kajale](https://github.com/dhananjaykajale751)
 - [Yasin Günay](https://github.com/yasingunay)
 - [Priyank Panchal](https://github.com/Priyank911)
@@ -3648,6 +3649,5 @@ pig
 - [Pradeep Lama](https://github.com/tamago01)
 - [Senaya1](https://github.com/Rinxyc)
 - [Susheel Thapa](https://github.com/SusheelThapa)
-
 
 
